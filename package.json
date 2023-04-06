@@ -27,6 +27,7 @@
     "jose": "^4.13.1",
     "jsonwebtoken": "^9.0.0",
     "mysql2-promise": "^0.1.4",
+    "nodemailer": "^6.9.1",
     "request": "^2.88.2",
     "require-directory": "^2.1.1",
     "sequelize": "^6.30.0"
